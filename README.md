@@ -13,7 +13,7 @@ Funcionalidades:
 - Poder copiar, pegar y cortar texto.
 
 
-- Jusitifcar el texto, centralizarlo, o justificarlo a la izquiera o derecha.
+- Jusitifcar el texto, centralizarlo, o justificarlo a la izquierda o derecha.
 
 
 - Poner el texto en negrita, cursiva o subrayado.
